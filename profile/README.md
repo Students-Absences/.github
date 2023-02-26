@@ -24,5 +24,5 @@ As of yet, this project is a work in progress and/or is being tested by the [5th
 
 ## People involved
 
-- Developer: [Stratis Dermanoutsos](https://github.com/Stratis-Dermanoutsos)
+- Owner & Developer: [Stratis Dermanoutsos](https://github.com/Stratis-Dermanoutsos)
 - Teacher that made it possible: [Eleni Rompola](https://github.com/EleniRompola)
