@@ -3,7 +3,7 @@
   <h1 align="center">Students Absence</h1>
 </p>
 
-Students Absence is a platform for greek high school teachers to easily take attendance and even more easily export all the absences for m[myschool](https://myschool.sch.gr)'s monthly report.
+Students Absence is a platform for greek high school teachers to easily take attendance and even more easily export all the absences for [myschool](https://myschool.sch.gr)'s monthly report.
 
 As of yet, this project is a work in progress and/or is being tested by the [5th Lyceum of Vyronas](https://5lykeiovyrona.gr).
 
