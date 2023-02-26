@@ -1,4 +1,7 @@
-# Students Absence
+<p align="center">
+  <img src="https://github.com/Students-Absences/Assets/blob/main/Images/logo_border.png?raw=true" height="128">
+  <h1 align="center">Students Absence</h1>
+</p>
 
 Students Absence is a platform for greek high school teachers to easily take attendance and even more easily export all the absences for m[myschool](https://myschool.sch.gr)'s monthly report.
 
@@ -15,6 +18,9 @@ As of yet, this project is a work in progress and/or is being tested by the [5th
 - Administrators' page
 
   > Used by the school's administrators and the developer to make sure everything is working as intended.
+- Documentation page
+
+  > Learn how to setup and use the application at your school.
 
 ## People involved
 
